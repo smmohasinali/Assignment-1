@@ -72,15 +72,21 @@ h2{
 .web-design{
     padding-top: 50px; 
 }
-.corona{
+.solving{
     text-align: center;
     font-size: 30px;
 }
-.corona-app{
+.line-color{
     color: rgb(252, 150, 78);
 }
-.gocorona{
+.advice{
     color: rgb(252, 150, 78);
+}
+.span-2022{
+    color: red;
+}
+.foot-font{
+    font-style: oblique;
 }
 .foot{
     padding-top: 30px;
@@ -88,4 +94,7 @@ h2{
     color: white;
     text-align: center;
     background-color: black;
+}
+.center{
+    text-align: center;
 }
