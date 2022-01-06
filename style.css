@@ -20,14 +20,21 @@ h1{
 }
 .flexible-container{
     display: flex;
-    align-self: center;
+    text-align: justify;
+}
+.half-width-first{
+    width: 100%;
+}
+.half-width-first img{
+    width: 50%;
+    padding-left: 50%;
 }
 .half-width{
     width: 100%;
-    padding-left: 5%;
 }
 .half-width img{
     width: 50%;
+    padding-right: 50%;
 }
 .mission-second-heading{
     text-align: center;
@@ -45,4 +52,24 @@ h1{
 }
 .color-g{
     background-color: wheat
+}
+.read-more{
+    color: white;
+    background-color: rgb(252, 150, 78);
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+.half-box{
+    width: 100%;
+    margin-right: 10%;
+}
+.half-box img{
+    width: 100%;
+    border-radius: 20%;
+    padding-right: 50px;
+}
+.web-design{
+    padding-top: 5%;
+    padding: 1em;
 }
