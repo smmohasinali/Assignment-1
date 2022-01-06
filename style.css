@@ -25,6 +25,6 @@ h1{
 .mission-second-sec{
     text-align: center;
 }
-.second-sec{
-    display: flex;
+.second-sec-pic{
+    box-shadow: red;
 }
