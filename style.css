@@ -1,6 +1,15 @@
 h1{
     font-size: 40px;
 }
+h2{
+    font-size: 35px;
+}
+.font-size{
+    font-size: 25px;
+}
+.para{
+    text-align: justify;
+}
 .top-heading{
     border-left: lawngreen solid;
 }
@@ -10,17 +19,8 @@ h1{
 .color-2022{
     color: lawngreen;
 }
-.explore-now{
-    text-decoration: none;
-    background-color: rgb(252, 150, 78);
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    color: white;
-}
 .flexible-container{
     display: flex;
-    text-align: justify;
 }
 .half-width-first{
     width: 100%;
@@ -53,9 +53,9 @@ h1{
 .color-g{
     background-color: wheat
 }
-.read-more{
+.button{
     color: white;
-    background-color: rgb(252, 150, 78);
+    background-color: rgb(212, 133, 76);
     border: none;
     border-radius: 5px;
     padding: 10px 20px;
@@ -70,6 +70,22 @@ h1{
     padding-right: 50px;
 }
 .web-design{
-    padding-top: 5%;
-    padding: 1em;
+    padding-top: 50px; 
+}
+.corona{
+    text-align: center;
+    font-size: 30px;
+}
+.corona-app{
+    color: rgb(252, 150, 78);
+}
+.gocorona{
+    color: rgb(252, 150, 78);
+}
+.foot{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: white;
+    text-align: center;
+    background-color: black;
 }
