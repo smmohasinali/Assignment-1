@@ -1,8 +1,14 @@
 h1{
     font-size: 40px;
 }
+.top-heading{
+    border-left: lawngreen solid;
+}
 .mission-color{
     color: rgb(252, 150, 78);
+}
+.color-2022{
+    color: lawngreen;
 }
 .explore-now{
     text-decoration: none;
@@ -14,17 +20,29 @@ h1{
 }
 .flexible-container{
     display: flex;
+    align-self: center;
 }
 .half-width{
-    width: 60%;
-    padding-left: 10%;
+    width: 100%;
+    padding-left: 5%;
 }
 .half-width img{
-    width: 60%;
+    width: 50%;
 }
-.mission-second-sec{
+.mission-second-heading{
     text-align: center;
 }
-.second-sec-pic{
-    box-shadow: red;
+.mission-22{
+    padding: 1em;
+    border-radius: 20px;
+    margin: 10px;
+}
+.color-m{
+    background-color: rgb(197, 176, 176);
+}
+.color-v{
+    background-color: rgb(241, 229, 206);
+}
+.color-g{
+    background-color: wheat
 }
